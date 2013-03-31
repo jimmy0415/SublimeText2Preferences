@@ -1,0 +1,7 @@
+{
+    "cmd": ["ampl.exe", "$file"],
+    // MarkovActv.mod, line 173 (offset 5812):
+    // (file MarkovActv.run, line 4, offset 178):
+    "file_regex": "^(?:[(]file )*[ ]*(...*?), line ([0-9]*)",
+    "selector": "source.ampl"
+}
