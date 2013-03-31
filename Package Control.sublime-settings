@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"FileDiffs",
+		"Git",
+		"Goto Documentation",
+		"lispindent",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeTODO",
+		"Tomorrow Color Schemes"
+	]
+}

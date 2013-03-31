@@ -1,0 +1,22 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_slow_plugins": false,
+	"draw_minimap_border": true,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 4,
+	"word_wrap": false
+}
