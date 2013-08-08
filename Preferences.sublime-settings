@@ -1,10 +1,10 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"caret_style": "phase",
+	"create_window_at_startup": false,
 	"detect_slow_plugins": false,
-	"draw_minimap_border": true,
-	"font_face": "DejaVu Sans Mono",
-	"font_size": 10,
+	"font_face": "Consolas",
+	"font_size": 10.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -12,11 +12,5 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"rulers":
-	[
-		80,
-		120
-	],
-	"tab_size": 4,
-	"word_wrap": false
+	"translate_tabs_to_spaces": true
 }
